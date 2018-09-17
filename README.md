@@ -1,5 +1,6 @@
-# auto_driving_car
+# intro
 
+* auto-driving car at udacity simulator
 
 # 1. how to start auto-driving ?
 
